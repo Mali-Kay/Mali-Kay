@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mali-Kay
+- 👀 I’m interested in Tailoring as well as coding
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on a hangman project
+- 📫 How to reach me kmkatlego@gmail.com
